@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\ice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|c:\\users\\lab_services_student\\source\\repos\\ice\\ice\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|solutionrelative:ice\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|c:\\users\\lab_services_student\\source\\repos\\ice\\ice\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|solutionrelative:ice\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|c:\\users\\lab_services_student\\source\\repos\\ice\\ice\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|solutionrelative:ice\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|c:\\users\\lab_services_student\\source\\repos\\ice\\ice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|solutionrelative:ice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|c:\\users\\lab_services_student\\source\\repos\\ice\\ice\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|solutionrelative:ice\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|c:\\users\\lab_services_student\\source\\repos\\ice\\ice\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|solutionrelative:ice\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|c:\\users\\lab_services_student\\source\\repos\\ice\\ice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|solutionrelative:ice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|c:\\users\\lab_services_student\\source\\repos\\ice\\ice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|solutionrelative:ice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|c:\\users\\lab_services_student\\source\\repos\\ice\\ice\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|solutionrelative:ice\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|c:\\users\\lab_services_student\\source\\repos\\ice\\ice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|solutionrelative:ice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|c:\\users\\lab_services_student\\source\\repos\\ice\\ice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|solutionrelative:ice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|c:\\users\\lab_services_student\\source\\repos\\ice\\ice\\ice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|solutionrelative:ice\\ice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|c:\\users\\lab_services_student\\source\\repos\\ice\\ice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64EB638-EA63-4BB3-B36A-42AF8F17B178}|ice\\ice.csproj|solutionrelative:ice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ice\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "ice\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T21:14:59.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "ice\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "ice\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T21:14:52.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ice\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "ice\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T21:14:30.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "ice\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "ice\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T21:10:56.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ice\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ice\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T20:59:51.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ice\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ice\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvxsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T20:54:23.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ice\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ice\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAADgv1gAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:52:34.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Program.cs",
+              "RelativeDocumentMoniker": "ice\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Program.cs",
+              "RelativeToolTip": "ice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:38:18.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\appsettings.json",
+              "RelativeDocumentMoniker": "ice\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\appsettings.json",
+              "RelativeToolTip": "ice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T20:37:25.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ice\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ice\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:36:25.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ice",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\ice.csproj",
+              "RelativeDocumentMoniker": "ice\\ice.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\ice.csproj",
+              "RelativeToolTip": "ice\\ice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T19:38:50.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "ice\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Models\\Products.cs",
+              "RelativeToolTip": "ice\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:31:31.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ice\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ice\\ice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ice\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T19:32:22.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\lab_services_student\source\repos\ice\ice\obj\Release\net9.0\PubTmp\Out\ice.exe
+C:\Users\lab_services_student\source\repos\ice\ice\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\lab_services_student\source\repos\ice\ice\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\lab_services_student\source\repos\ice\ice\obj\Release\net9.0\PubTmp\Out\ice.dll
+C:\Users\lab_services_student\source\repos\ice\ice\obj\Release\net9.0\PubTmp\Out\ice.deps.json
+C:\Users\lab_services_student\source\repos\ice\ice\obj\Release\net9.0\PubTmp\Out\ice.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\ice\ice\obj\Release\net9.0\PubTmp\Out\ice.pdb
